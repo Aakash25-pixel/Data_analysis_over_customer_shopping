@@ -43,7 +43,7 @@ Features analyzed include:
 | SQL | Business Query Analysis |
 | Power BI | Dashboard & Visualization |
 | Pandas | Data Processing |
-| Matplotlib | Visualization |
+
 
 ---
 
@@ -97,15 +97,7 @@ customer-shopping-behavior-analysis/
 
 ---
 
-## Dashboard Preview
 
-(Add dashboard screenshots here)
-
-```md
-![Dashboard](images/dashboard_preview.png)
-```
-
----
 
 ## Results
 - Identified customer purchasing patterns
